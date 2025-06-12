@@ -1,4 +1,4 @@
 # cpp-dsa
-cpp dsa theory and code practise
+cpp dsa theory and code practice
 <br>
-Author - Karthik Medapalli
+
